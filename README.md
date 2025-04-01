@@ -3,7 +3,6 @@
 ## Requirements
 - PHP >= 8.1
 - Composer
-- Node.js
 - MySQL or compatible database
 
 ## Instalação
