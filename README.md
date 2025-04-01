@@ -27,17 +27,17 @@ composer install
 - DB_USERNAME
 - DB_PASSWORD
 
-7. Gerar chave da aplicação:
+5. Gerar chave da aplicação:
 ```bash
 php artisan key:generate
 ```
 
-8. Executar migração:
+6. Executar migração:
 ```bash
 php artisan migrate
 ```
 
-10. Executar o php artisan serve:
+7. Executar o php artisan serve:
 ```bash
 php artisan serve
 ```
